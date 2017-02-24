@@ -61,4 +61,4 @@ This class contains no public methods of interest. This class should be added to
 
 ## License
 
-Laravel Navigation is licensed under [The MIT License (MIT)](LICENSE).
+Based on Laravel Navigation that licensed under [The MIT License (MIT)](LICENSE).
